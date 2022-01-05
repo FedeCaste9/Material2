@@ -1,0 +1,17 @@
+{
+  "name": "utk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "objetos1.js",
+  "scripts": {
+    "test1": "mocha ./ejercicios/spec/ejercicio1.spec.js",
+    "test2": "mocha ./ejercicios/spec/ejercicio2.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^3.2.0",
+    "should": "^13.2.3"
+  }
+}
